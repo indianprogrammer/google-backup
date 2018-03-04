@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "galvanized-case-190009",
+  "private_key_id": "878a172cab612c5f4cd74b88a7ab50d6c5c869ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDxxWie7UuTvA/O\nHWdcrOTM6WoXiluo2wkMtK9gdaT5rCx3iEByEpKutQRduOt9UXZ02Sv6tcbHeodz\nW5ChL/97NrsSdrFv+xS05P1KN44+fi/ZnahjPku1QHbEl3+CtKeyb+bZyNvfu/0B\nQJXo0tBmaSDvQl+QP0jMdo0gGKawKwPxUj1jlzdMM569FNgbYJS3q2VAKTku08WC\nEFwD97JcpcTU0jsipWsWwGdboJXo7wM3a5qzLj7BNn62d/jWmRMvy5iSyayPFWoz\nXZonZpNizJi/bp4LSHeo4P3mETRrXVJOaYQ3xWEp1nwc8gHJh//7kNN93ZmILH0T\nW5y3nlUBAgMBAAECggEAeJH1McSvOxa/Xw/k2x/R3qrM4L58JYJOSgrVpyokQurt\nJhNJ6FmA0yWs7rxonA+DHpSrTRVX82UUpZ/VSb0xEJZjxrpwlKLHWcsU0e1Qv7OY\nU1M/hXastNBYKoRO77T+KIuLubJkjHgonXZDDGAN0/S7mvYjyED3IhhBGu+QOSvS\nW/K4rcE3USjsmVh3QG1Sw6fxuv5JPMi2c3xizcofU03Cevlp6cFKS87GmPpGlNJ7\nRNz5Wfrw+yYGxbOj+Jih9Pr0tiQ/aPkZzb43/1o2hnU+7tpia7R3CxA1tduYkrot\n2XN3MyDOFhHTV0EJ2PqYpcdJkfUJWFiG/QDB2uVBnQKBgQD79pO0AbplELcg+V6/\nxTjihM8a1mT5c8pzi1xBe/pRQV6DFvJrF6SnvULI6v9hNPxfAKJIz9TeAN1kwFqH\nkDWjCgxi03rFAmQePEgaDcBhPYJU/gzQyAd9hKnvaePSlso/5hJju64IwHqyoSMU\nh1mHsTHXFM0jG/46sIB6Da/7uwKBgQD1pQd0jRO6jQIlADom1f9xFal75sE3QUSO\n1Lndx0uQzBiBIH+EUmHBqCu5PuxzjXz55P6EyT10SSPszqxs4P7mRvdxtO4YKIfC\n1FRgX3AeeuOQxlRz2bMcb+7U+do5v09yWMorlEVkj61o3X0IrFoWAFn2YJGblBcE\nSI4t2AzAcwKBgQDW7Z9RDahSTc/o8M9CBppfn6qK2heIMp2fsmEf+wGsDnbwm8Ju\nV9y8uVUezlbKNMiSwZetRJvwRAyWxP50ZS9bxFaMdpljNIbyw7k9gD16tV1X4t5L\nulWpXGEZONp96OLdXwSQzqfGD2qatZmXCV31wdEiBzx1lotmxOjTNJnJwQKBgQC2\naqMqrklkU6qwB4cnp+tV8xw1YptBiTp8RwTv6Tv4f1gDLDsF7Jej1FsD6fJ1rTCN\n8rv/p+H3JQmEpcXt5Pfl0fWXfyEA17hZuoweNUFxoRi1PlMg5R3ZlFXr2s9v6t34\nsG8SBb2ye+/u2+wqMLOFeyVTjUsUGdkt2SOcb8CoeQKBgCrhNCA9rccw62Wn/+MG\niF9fSFK9fi+Kn8n6ZDC9BG1iUc+2Rwx+1nF+KHUpddwH4c3fvo1DjchBV+zuvN04\nzLGmyVI+dF3hI4gbK+jY5G9CbRo0ms3RRGQCHc+2zwK6szT2XrMujx7hOYkn8SQi\n7ycPrhtRXdmxlEUAYFWnayv2\n-----END PRIVATE KEY-----\n",
+  "client_email": "snapshotadmin@galvanized-case-190009.iam.gserviceaccount.com",
+  "client_id": "115968628039843226236",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snapshotadmin%40galvanized-case-190009.iam.gserviceaccount.com"
+}
